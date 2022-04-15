@@ -1,13 +1,13 @@
 {
-  "ownerNumber": ["6281319944917@s.whatsapp.net"],
-  "ownerName": ["Arasya"],
+  "ownerNumber": ["6283811034750@s.whatsapp.net"],
+  "ownerName": ["Satria"],
   "botName": "Jojo Bot",
   "sessionName": "session",
   "pathimg": "./media/Jojo.jpg",
-  "gamewaktu": 90,
-  "limitCount": 40,
+  "gamewaktu": 100,
+  "limitCount": 15,
   "gcount": {
 	"prem": 70,
-	"user": 30
+	"user": 15
   }
 }
